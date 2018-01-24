@@ -44,7 +44,7 @@ public class MainFrame extends BaseFrame {
         labGit.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseClicked(MouseEvent e) {
-                CmdUtil.openBrowser("");
+                CmdUtil.openBrowser("https://github.com/zimuwse/coder-helper");
             }
         });
     }

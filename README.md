@@ -11,12 +11,18 @@ The plugin is aimed at helping coder to simplify the coding work.
 1. [Download From GitHub](https://github.com/zimuwse/coder-helper/blob/master/product/coder-helper.zip)
 2. [Download From Jetbrains](https://plugins.jetbrains.com/plugin/10400-coder-helper)
 3. Steps:
-    1. [Step1](https://github.com/zimuwse/coder-helper/blob/master/product/step1.png)
-    2. [Step2](https://github.com/zimuwse/coder-helper/blob/master/product/step2.png)
-    3. [Step3](https://github.com/zimuwse/coder-helper/blob/master/product/step3.png)
-    4. [Step4](https://github.com/zimuwse/coder-helper/blob/master/product/step4.png)
-    5. [Step5](https://github.com/zimuwse/coder-helper/blob/master/product/step5.png)
-    5. [Step6](https://github.com/zimuwse/coder-helper/blob/master/product/step6.png)
+    1. [install plugins](https://github.com/zimuwse/coder-helper/blob/master/product/step1.png)
+    2. [Tools:coder-helper](https://github.com/zimuwse/coder-helper/blob/master/product/step2.png)
+    3. [Main frame](https://github.com/zimuwse/coder-helper/blob/master/product/step3.png)
+    4. [Mysql to java file](https://github.com/zimuwse/coder-helper/blob/master/product/step4.png)
+    5. [Table list](https://github.com/zimuwse/coder-helper/blob/master/product/step5.png)
+    5. [Mysql to java file type mapping config](https://github.com/zimuwse/coder-helper/blob/master/product/step6.png)
+
+
+### SUPPORT ME
+Thanks for your support, I will publish more functions.
+1. ![WeChatPay](https://github.com/zimuwse/coder-helper/blob/master/product/wechat.png)
+2. ![AliPay](https://github.com/zimuwse/coder-helper/blob/master/product/wechat.png)
 
 
 ### DEVELOP GUIDE
@@ -45,9 +51,6 @@ If you want to debug without idea's way, you should change static filed
 **org.lr.helper.HelperMainAction.main**
  as common java application to start the plugin 
  in Ordinary way that is clearly faster than idea's.
-
-
-
 
 ### UPDATE NOTES
 #### 2018-01-24

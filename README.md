@@ -6,6 +6,19 @@
 
 The plugin is aimed at helping coder to simplify the coding work.
 
+### USER GUIDE
+
+1. [Download From GitHub](https://github.com/zimuwse/coder-helper/blob/master/product/coder-helper.zip)
+2. [Download From Jetbrains](https://plugins.jetbrains.com/plugin/10400-coder-helper)
+3. Steps:
+    1. [Step1](https://github.com/zimuwse/coder-helper/blob/master/product/step1.png)
+    2. [Step2](https://github.com/zimuwse/coder-helper/blob/master/product/step2.png)
+    3. [Step3](https://github.com/zimuwse/coder-helper/blob/master/product/step3.png)
+    4. [Step4](https://github.com/zimuwse/coder-helper/blob/master/product/step4.png)
+    5. [Step5](https://github.com/zimuwse/coder-helper/blob/master/product/step5.png)
+    5. [Step6](https://github.com/zimuwse/coder-helper/blob/master/product/step6.png)
+
+
 ### DEVELOP GUIDE
 
 In order to keep developing on this project,you should import the following dependent jars into project library.

@@ -19,12 +19,6 @@ The plugin is aimed at helping coder to simplify the coding work.
     5. [Mysql to java file type mapping config](https://github.com/zimuwse/coder-helper/blob/master/product/step6.png)
 
 
-### SUPPORT ME
-Thanks for your support, I will publish more functions.
-1. ![WeChatPay](https://github.com/zimuwse/coder-helper/blob/master/product/wechat.png)
-2. ![AliPay](https://github.com/zimuwse/coder-helper/blob/master/product/alipay.jpg)
-
-
 ### DEVELOP GUIDE
 
 In order to keep developing on this project,you should import the following dependent jars into project library.
@@ -51,6 +45,12 @@ If you want to debug without idea's way, you should change static filed
 **org.lr.helper.HelperMainAction.main**
  as common java application to start the plugin 
  in Ordinary way that is clearly faster than idea's.
+
+
+### SUPPORT ME
+Thanks for your support, I will publish more functions.
+1. <img alt="wechat" src="https://github.com/zimuwse/coder-helper/blob/master/product/wechat.png" style="width:100px;height:100px"/>
+1. <img alt="alipay" src="https://github.com/zimuwse/coder-helper/blob/master/product/alipay.png" style="width:90px;height:136px"/>
 
 ### UPDATE NOTES
 #### 2018-01-24

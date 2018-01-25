@@ -49,8 +49,8 @@ If you want to debug without idea's way, you should change static filed
 
 ### SUPPORT ME
 Thanks for your support, I will publish more functions.
-1. <img alt="wechat" src="https://github.com/zimuwse/coder-helper/blob/master/product/wechat.png" style="width:100px;height:100px"/>
-1. <img alt="alipay" src="https://github.com/zimuwse/coder-helper/blob/master/product/alipay.png" style="width:90px;height:136px"/>
+1. <img alt="wechat" src="https://github.com/zimuwse/coder-helper/blob/master/product/wechat.png" style="width:384px;height:384px"/>
+1. <img alt="alipay" src="https://github.com/zimuwse/coder-helper/blob/master/product/alipay.jpg" style="width:360px;height:546px"/>
 
 ### UPDATE NOTES
 #### 2018-01-24

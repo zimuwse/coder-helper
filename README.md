@@ -22,7 +22,7 @@ The plugin is aimed at helping coder to simplify the coding work.
 ### SUPPORT ME
 Thanks for your support, I will publish more functions.
 1. ![WeChatPay](https://github.com/zimuwse/coder-helper/blob/master/product/wechat.png)
-2. ![AliPay](https://github.com/zimuwse/coder-helper/blob/master/product/wechat.png)
+2. ![AliPay](https://github.com/zimuwse/coder-helper/blob/master/product/alipay.jpg)
 
 
 ### DEVELOP GUIDE

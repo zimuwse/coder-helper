@@ -46,12 +46,6 @@ If you want to debug without idea's way, you should change static filed
  as common java application to start the plugin 
  in Ordinary way that is clearly faster than idea's.
 
-
-### SUPPORT ME
-Thanks for your support, I will publish more functions.
- <img alt="wechat" src="https://github.com/zimuwse/coder-helper/blob/master/product/wechat.png" style="width:384px;height:384px"/>
- <img alt="alipay" src="https://github.com/zimuwse/coder-helper/blob/master/product/alipay.jpg" style="width:360px;height:546px"/>
-
 ### UPDATE NOTES
 #### 2018-01-24
 1. update UI
